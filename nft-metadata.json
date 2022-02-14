@@ -1,0 +1,19 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Car",
+        "value": "Toyota Supra JZA80"
+      },
+      {
+        "trait_type": "Racetype",
+        "value": "JGTC Castrol"
+      },
+      {
+          "trait_type": "Engine Type",
+          "value": "Toyota 3S-GTEbeams"
+      }
+    ],
+    "description": "The legendary JGTC Castrol Supra #36",
+    "image": "https://gateway.pinata.cloud/ipfs/QmV9NUhfcr6UVoEY5TcaQdExMLZ6NBaL3BsE3DhWdhm4e2",
+    "name": "Castrol-Supra"
+}
