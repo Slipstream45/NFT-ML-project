@@ -16,4 +16,23 @@
     "description": "The legendary JGTC Castrol Supra #36",
     "image": "https://gateway.pinata.cloud/ipfs/QmV9NUhfcr6UVoEY5TcaQdExMLZ6NBaL3BsE3DhWdhm4e2",
     "name": "Castrol-Supra"
+    
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "Nakano Nino"
+      },
+      {
+        "trait_type": "Anime",
+        "value": "5-toubin no Hanayome"
+      },
+      {
+          "trait_type": "Type",
+          "value": "Tsundere"
+      }
+    ],
+    "description": "Nakno Nino, one of my waifu and the second elder quintuplet in the series.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmaUE5ULVFDFcB7R1Mk53C7piwnHpvnKP4gkSmsrqabSD1",
+    "name": "Nino Nakano"
+}
 }
